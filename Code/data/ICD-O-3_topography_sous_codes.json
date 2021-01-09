@@ -1,0 +1,1541 @@
+{
+    "C00.0": [
+        "External upper lip ",
+        "Vermilion border of upper lip ",
+        "Upper lip, NOS"
+    ],
+    "C00.1": [
+        "External lower lip ",
+        "Vermilion border of lower lip ",
+        "Lower lip, NOS"
+    ],
+    "C00.2": [
+        "External lip, NOS ",
+        "Vermilion border of lip, NOS "
+    ],
+    "C00.3": [
+        "Mucosa of upper lip ",
+        "Inner aspect of upper lip ",
+        "Frenulum of upper lip "
+    ],
+    "C00.4": [
+        "Mucosa of lower lip ",
+        "Inner aspect of lower lip ",
+        "Frenulum of lower lip "
+    ],
+    "C00.5": [
+        "Mucosa of lip, NOS ",
+        "Inner aspect of lip, NOS ",
+        "Internal lip, NOS ",
+        "Frenulum of lip, NOS ",
+        "Frenulum labii, NOS "
+    ],
+    "C00.6": [
+        "Commissure of lip ",
+        "Labial commissure "
+    ],
+    "C00.8": [
+        "Overlapping lesion of lip "
+    ],
+    "C00.9": [
+        "Lip, NOS "
+    ],
+    "C01.9": [
+        "Base of tongue, NOS ",
+        "Dorsal surface of base of tongue ",
+        "Posterior third of tongue ",
+        "Posterior tongue, NOS ",
+        "Root of tongue "
+    ],
+    "C02.0": [
+        "Dorsal surface of tongue, NOS ",
+        "Anterior 2/3 of tongue, dorsal surface",
+        "Midline of tongue ",
+        "Dorsal surface of anterior tongue "
+    ],
+    "C02.1": [
+        "Border of tongue ",
+        "Tip of tongue "
+    ],
+    "C02.2": [
+        "Ventral surface of tongue, NOS ",
+        "Anterior 2/3 of tongue, ventral surface ",
+        "Frenulum linguae ",
+        "Ventral surface of anterior tongue, NOS "
+    ],
+    "C02.3": [
+        "Anterior 213 of tongue, NOS ",
+        "Anterior tongue, NOS "
+    ],
+    "C02.4": [
+        "Lingual tonsil "
+    ],
+    "C02.8": [
+        "Overlapping lesion of tongue ",
+        "Junctional zone of tongue "
+    ],
+    "C02.9": [
+        "Tongue, NOS ",
+        "Lingual, NOS "
+    ],
+    "C03.0": [
+        "Upper gum ",
+        "Maxillary gingiva ",
+        "Upper alveolar mucosa ",
+        "Upper alveolar ridge mucosa ",
+        "Upper alveolus ",
+        "Upper gingiva "
+    ],
+    "C03.1": [
+        "Lower gum ",
+        "Mandibular gingiva ",
+        "Lower alveolar mucosa ",
+        "Lower alveolar ridge mucosa ",
+        "Lower alveolus ",
+        "Lower gingiva "
+    ],
+    "C03.9": [
+        "Gum, NOS ",
+        "Gingiva, NOS ",
+        "Alveolar mucosa, NOS ",
+        "Alveolar ridge mucosa, NOS ",
+        "Alveolus, NOS ",
+        "Periodontal tissue ",
+        "Tooth socket "
+    ],
+    "C04.0": [
+        "Anterior floor of mouth "
+    ],
+    "C04.1": [
+        "Lateral floor of mouth "
+    ],
+    "C04.8": [
+        "Overlapping lesion of floor of mouth "
+    ],
+    "C04.9": [
+        "Floor of mouth, NOS "
+    ],
+    "C05.0": [
+        "Hard palate "
+    ],
+    "C05.1": [
+        "Soft palate, NOS"
+    ],
+    "C05.2": [
+        "Uvula "
+    ],
+    "C05.8": [
+        "Overlapping lesion of palate",
+        "Junction of hard and soft palate "
+    ],
+    "C05.9": [
+        "Palate, NOS ",
+        "Roof of mouth "
+    ],
+    "C06.0": [
+        "Cheek mucosa ",
+        "Buccal mucosa ",
+        "Internal cheek "
+    ],
+    "C06.1": [
+        "Vestibule of mouth ",
+        "Alveolar sulcus ",
+        "Buccal sulcus ",
+        "Labial sulcus "
+    ],
+    "C06.2": [
+        "Retromolar area ",
+        "Retromolar triangle ",
+        "Retromolar trigone "
+    ],
+    "C06.8": [
+        "Overlapping lesion of other and unspecified parts of mouth"
+    ],
+    "C06.9": [
+        "Mouth, NOS ",
+        "Buccal cavity ",
+        "Oral cavity ",
+        "Oral mucosa ",
+        "Minor salivary gland, NOS "
+    ],
+    "C07.9": [
+        "Parotid gland ",
+        "Parotid, NOS ",
+        "Stensen duct ",
+        "Parotid gland duct "
+    ],
+    "C08.0": [
+        "Submandibular gland ",
+        "Submaxillary gland ",
+        "Wharton duct ",
+        "Submaxillary gland duct "
+    ],
+    "C08.1": [
+        "Sublingual gland ",
+        "Sublingual gland duct "
+    ],
+    "C08.8": [
+        "Overlapping lesion of major salivary glands "
+    ],
+    "C08.9": [
+        "Major salivary gland, NOS ",
+        "Salivary gland, NOS"
+    ],
+    "C09.0": [
+        "Tonsillar fossa "
+    ],
+    "C09.1": [
+        "Tonsillar pillar ",
+        "Faucial pillar ",
+        "Glossopalatine fold "
+    ],
+    "C09.8": [
+        "Overlapping lesion of tonsil "
+    ],
+    "C09.9": [
+        "Tonsil, NOS",
+        "Faucial tonsil ",
+        "Palatine tonsil "
+    ],
+    "C10.0": [
+        "Vallecula "
+    ],
+    "C10.1": [
+        "Anterior surface of epiglottis "
+    ],
+    "C10.2": [
+        "Lateral wall of oropharynx ",
+        "Lateral wall of mesopharynx "
+    ],
+    "C10.3": [
+        "Posterior wall of oropharynx ",
+        "Posterior wall of mesopharynx "
+    ],
+    "C10.4": [
+        "Branchial cleft"
+    ],
+    "C10.8": [
+        "Overlapping lesion of oropharynx ",
+        "Junctional region of oropharynx "
+    ],
+    "C10.9": [
+        "Oropharynx, NOS ",
+        "Mesopharynx, NOS ",
+        "Fauces, NOS "
+    ],
+    "C11.0": [
+        "Superior wall of nasopharynx ",
+        "Roof of nasopharynx "
+    ],
+    "C11.1": [
+        "Posterior wall of nasopharynx ",
+        "Adenoid ",
+        "Pharyngeal tonsil "
+    ],
+    "C11.2": [
+        "Lateral wall of nasopharynx ",
+        "Fossa of Rosenmuller "
+    ],
+    "C11.3": [
+        "Anterior wall of nasopharynx ",
+        "Nasopharyngeal surface of soft palate ",
+        "Pharyngeal fornix "
+    ],
+    "C11.8": [
+        "Overlapping lesion of nasopharynx "
+    ],
+    "C11.9": [
+        "Nasopharynx, NOS ",
+        "Nasopharyngeal wall "
+    ],
+    "C12.9": [
+        "Pyriform sinus ",
+        "Pirifonn sinus ",
+        "Pyrifonn fossa ",
+        "Pirifonn fossa "
+    ],
+    "C13.0": [
+        "Postcricoid region "
+    ],
+    "C13.1": [
+        "Hypopharyngeal aspect of aryepiglottic fold ",
+        "Aryepiglottic fold, NOS",
+        "Arytenoid fold "
+    ],
+    "C13.2": [
+        "Posterior wall of hypopharynx "
+    ],
+    "C13.8": [
+        "Overlapping lesion of hypopharynx "
+    ],
+    "C13.9": [
+        "Hypopharynx, NOS ",
+        "Hypopharyngeal wall ",
+        "Laryngopharynx "
+    ],
+    "C14.0": [
+        "Pharynx, NOS ",
+        "Pharyngeal wall, NOS ",
+        "Wall of pharynx, NOS ",
+        "Lateral wall of pharynx, NOS ",
+        "Posterior wall of pharynx, NOS ",
+        "Retropharynx Throat "
+    ],
+    "C14.2": [
+        "Waldeyer ring "
+    ],
+    "C14.8": [
+        "Overlapping lesion of lip, oral cavity ",
+        "and pharynx "
+    ],
+    "C15.0": [
+        "Cervical esophagus "
+    ],
+    "C15.1": [
+        "Thoracic esophagus "
+    ],
+    "C15.2": [
+        "Abdominal esophagus "
+    ],
+    "C15.3": [
+        "Upper third of esophagus ",
+        "Proximal third of esophagus "
+    ],
+    "C15.4": [
+        "Middle third of esophagus "
+    ],
+    "C15.5": [
+        "Lower third of esophagus ",
+        "Distal third of esophagus "
+    ],
+    "C15.8": [
+        "Overlapping lesion of esophagus"
+    ],
+    "C15.9": [
+        "Esophagus, NOS "
+    ],
+    "C16.0": [
+        "Cardia, NOS ",
+        "Gastric cardia "
+    ],
+    "C16.1": [
+        "Fundus of stomach ",
+        "Gastric fundus "
+    ],
+    "C16.2": [
+        "Body of stomach "
+    ],
+    "C16.3": [
+        "Gastric antrum ",
+        "Antrum of stomach ",
+        "Pyloric antrum "
+    ],
+    "C16.4": [
+        "Pylorus ",
+        "Pyloric canal ",
+        "Prepylorus "
+    ],
+    "C16.5": [
+        "Lesser curvature of stomach, NOS"
+    ],
+    "C16.6": [
+        "Greater curvature of stomach, NOS "
+    ],
+    "C16.8": [
+        "Overlapping lesion of stomach ",
+        "Anterior wall of stomach, NOS ",
+        "Posterior wall of stomach, NOS "
+    ],
+    "C16.9": [
+        "Stomach, NOS ",
+        "Gastric, NOS"
+    ],
+    "C17.0": [
+        "Duodenum "
+    ],
+    "C17.1": [
+        "Jejunum "
+    ],
+    "C17.2": [
+        "Ileum "
+    ],
+    "C17.3": [
+        "Meckel diverticulum"
+    ],
+    "C17.8": [
+        "Overlapping lesion of small intestine "
+    ],
+    "C17.9": [
+        "Small intestine, NOS ",
+        "Small bowel, NOS "
+    ],
+    "C18.0": [
+        "Cecum ",
+        "lleocecal valve ",
+        "Ileocecal junction "
+    ],
+    "C18.1": [
+        "Appendix "
+    ],
+    "C18.2": [
+        "Ascending colon ",
+        "Right colon "
+    ],
+    "C18.3": [
+        "Hepatic flexure of colon "
+    ],
+    "C18.4": [
+        "Transverse colon "
+    ],
+    "C18.5": [
+        "Splenic flexure of colon "
+    ],
+    "C18.6": [
+        "Descending colon ",
+        "Left colon "
+    ],
+    "C18.7": [
+        "Sigmoid colon ",
+        "Sigmoid, NOS ",
+        "Sigmoid flexure of colon ",
+        "Pelvic colon "
+    ],
+    "C18.8": [
+        "Overlapping lesion of colon "
+    ],
+    "C18.9": [
+        "Colon, NOS ",
+        "Large intestine ",
+        "Large bowel, NOS "
+    ],
+    "C19.9": [
+        "Rectosigmoid junction ",
+        "Rectosigmoid, NOS ",
+        "Rectosigmoid colon "
+    ],
+    "C20.9": [
+        "Rectum, NOS ",
+        "Rectal ampulla "
+    ],
+    "C21.0": [
+        "Anus, NOS"
+    ],
+    "C21.1": [
+        "Anal canal ",
+        "Anal sphincter "
+    ],
+    "C21.2": [
+        "Cloacogenic zone "
+    ],
+    "C21.8": [
+        "Overlapping lesion of rectum, anus and anal canal",
+        "Anorectal junction ",
+        "Anorectum "
+    ],
+    "C22.0": [
+        "Liver ",
+        "Hepatic, NOS "
+    ],
+    "C22.1": [
+        "Intrahepatic bile duct ",
+        "Biliary canaliculus "
+    ],
+    "C23.9": [
+        "Gallbladder "
+    ],
+    "C24.0": [
+        "Extrahepatic bile duct ",
+        "Bile duct, NOS ",
+        "Biliary duct, NOS "
+    ],
+    "C24.1": [
+        "Ampulla of Vater ",
+        "Periampullary "
+    ],
+    "C24.8": [
+        "Overlapping lesion of biliary tract "
+    ],
+    "C24.9": [
+        "Biliary tract, NOS "
+    ],
+    "C25.0": [
+        "Head of pancreas "
+    ],
+    "C25.1": [
+        "Body of pancreas "
+    ],
+    "C25.2": [
+        "Tail of pancreas "
+    ],
+    "C25.3": [
+        "Pancreatic duct ",
+        "Duct of Santorini ",
+        "Duct of Wirsung "
+    ],
+    "C25.4": [
+        "Islets of Langerhans ",
+        "Islands of Langerhans ",
+        "Endocrine pancreas "
+    ],
+    "C25.7": [
+        "Other specified parts of pancreas ",
+        "Neck of pancreas "
+    ],
+    "C25.8": [
+        "Overlapping lesion of pancreas "
+    ],
+    "C25.9": [
+        "Pancreas, NOS "
+    ],
+    "C26.0": [
+        "Intestinal tract, NOS ",
+        "Bowel, NOS ",
+        "Intestine, NOS "
+    ],
+    "C26.8": [
+        "Overlapping lesion of digestive system "
+    ],
+    "C26.9": [
+        "Gastrointestinal tract, NOS ",
+        "Alimentary tract, NOS ",
+        "Digestive organs, NOS "
+    ],
+    "C30.0": [
+        "Nasal cavity",
+        "Internal nose",
+        "Naris ",
+        "Nasal cartilage ",
+        "Nasal mucosa ",
+        "Nasal septum, NOS ",
+        "Nasal turbinate ",
+        "Nostril ",
+        "Vestibule of nose "
+    ],
+    "C30.1": [
+        "Middle ear ",
+        "Inner ear ",
+        "Auditory tube ",
+        "Eustachian tube ",
+        "Mastoid antrum ",
+        "Tympanic cavity "
+    ],
+    "C31.0": [
+        "Maxillary sinus ",
+        "Maxillary antrum ",
+        "Antrum, NOS "
+    ],
+    "C31.1": [
+        "Ethmoid sinus "
+    ],
+    "C31.2": [
+        "Frontal sinus "
+    ],
+    "C31.3": [
+        "Sphenoid sinus "
+    ],
+    "C31.8": [
+        "Overlapping lesion of accessory sinuses "
+    ],
+    "C31.9": [
+        "Accessory sinus, NOS ",
+        "Accessory nasal sinus ",
+        "Paranasal sinus "
+    ],
+    "C32.0": [
+        "Glottis ",
+        "Intrinsic larynx ",
+        "Laryngeal commissure ",
+        "Vocal cord, NOS ",
+        "True vocal cord ",
+        "True cord "
+    ],
+    "C32.1": [
+        "Supraglottis ",
+        "Epiglottis, NOS",
+        "Extrinsic larynx ",
+        "Laryngeal aspect of aryepiglottic fold ",
+        "Posterior surface of epiglottis ",
+        "Ventricular band of larynx ",
+        "False vocal cord ",
+        "False cord "
+    ],
+    "C32.2": [
+        "Subglottis "
+    ],
+    "C32.3": [
+        "Laryngeal cartilage ",
+        "Arytenoid cartilage "
+    ],
+    "C32.8": [
+        "Overlapping lesion of larynx"
+    ],
+    "C32.9": [
+        "Larynx, NOS"
+    ],
+    "C33.9": [
+        "Trachea "
+    ],
+    "C34.0": [
+        "Main bronchus "
+    ],
+    "C34.1": [
+        "Upper lobe, lung ",
+        "Lingula of lung ",
+        "Upper lobe, bronchus "
+    ],
+    "C34.2": [
+        "Middle lobe, lung ",
+        "Middle lobe, bronchus "
+    ],
+    "C34.3": [
+        "Lower lobe, lung",
+        "Lower lobe, bronchus "
+    ],
+    "C34.8": [
+        "Overlapping lesion of lung "
+    ],
+    "C34.9": [
+        "Lung, NOS ",
+        "Bronchus, NOS ",
+        "Bronchiole ",
+        "Bronchogenic ",
+        "Pulmonary, NOS "
+    ],
+    "C37.9": [
+        "Thymus "
+    ],
+    "C38.0": [
+        "Heart ",
+        "Endocardium ",
+        "Epicardium ",
+        "Myocardium ",
+        "Pericardium "
+    ],
+    "C38.1": [
+        "Anterior mediastinum "
+    ],
+    "C38.2": [
+        "Posterior mediastinum "
+    ],
+    "C38.3": [
+        "Mediastinum, NOS "
+    ],
+    "C38.4": [
+        "Pleura, NOS ",
+        "Parietal pleura ",
+        "Visceral pleura "
+    ],
+    "C38.8": [
+        "Overlapping lesion of heart, mediastinum, and pleura"
+    ],
+    "C39.0": [
+        "Upper respiratory tract, NOS "
+    ],
+    "C39.8": [
+        "Overlapping lesion of respiratory system and intrathoracic organs "
+    ],
+    "C39.9": [
+        "Ill-defined sites within respiratory system ",
+        "Respiratory tract, NOS "
+    ],
+    "C40.0": [
+        "Long bones of upper limb, scapula and associated joints ",
+        "Acrornioclavicular joint ",
+        "Bone of arm ",
+        "Bone of forearm ",
+        "Bone of shoulder ",
+        "Elbow joint ",
+        "Humerus ",
+        "Radius ",
+        "Scapula ",
+        "Shoulder girdle ",
+        "Shoulder joint ",
+        "Ulna "
+    ],
+    "C40.1": [
+        "Short bones of upper limb and associated joints ",
+        "Bone of finger ",
+        "Bone of hand ",
+        "Bone of thumb ",
+        "Bone of wrist "
+    ],
+    "C40.2": [
+        "Long bones of lower limb and associated joints ",
+        "Bone of leg ",
+        "Femur ",
+        "Fibula ",
+        "Knee joint, NOS ",
+        "Semilunar cartilage ",
+        "Lateral meniscus of knee joint ",
+        "Medial meniscus of knee joint ",
+        "Tibia "
+    ],
+    "C40.3": [
+        "Short bones of lower limb and associated joints ",
+        "Ankle joint ",
+        "Bone of ankle ",
+        "Bone of foot ",
+        "Bone of heel ",
+        "Bone of toe ",
+        "Foot joint ",
+        "Metatarsal bone ",
+        "Patella ",
+        "Phalanx of foot ",
+        "Tarsal bone "
+    ],
+    "C40.8": [
+        "Overlapping lesion of bones, joints and articular cartilage of limbs"
+    ],
+    "C40.9": [
+        "Bone of limb, NOS "
+    ],
+    "C41.0": [
+        "Bones of skull and face and associated joints "
+    ],
+    "C41.1": [
+        "Mandible ",
+        "Jaw bone, NOS ",
+        "Lower jaw bone ",
+        "Temporomandibular joint "
+    ],
+    "C41.2": [
+        "Vertebral column",
+        "Atlas ",
+        "Axis ",
+        "Bone of back ",
+        "Intervertebral disc ",
+        "Nucleus pulposus ",
+        "Spinal column ",
+        "Spine ",
+        "Vertebra "
+    ],
+    "C41.3": [
+        "Rib, sternum, clavicle and associated joints "
+    ],
+    "C41.4": [
+        "Pelvic bones, sacrum, coccyx and associated joints ",
+        "Acetabulum ",
+        "Bone of hip "
+    ],
+    "C41.8": [
+        "Overlapping lesion of bones, joints and articular cartilage"
+    ],
+    "C41.9": [
+        "Bone, NOS "
+    ],
+    "C42.0": [
+        "Blood "
+    ],
+    "C42.1": [
+        "Bone marrow "
+    ],
+    "C42.2": [
+        "Spleen "
+    ],
+    "C42.3": [
+        "Reticuloendothelial system, NOS "
+    ],
+    "C42.4": [
+        "Hematopoietic system, NOS"
+    ],
+    "C44.0": [
+        "Skin of lip, NOS ",
+        "Skin of lower lip ",
+        "Skin of upper lip "
+    ],
+    "C44.1": [
+        "Eyelid ",
+        "Lid, NOS ",
+        "Palpebra "
+    ],
+    "C44.2": [
+        "External ear ",
+        "Auricle, NOS ",
+        "Pinna "
+    ],
+    "C44.3": [
+        "Skin of other and unspecified parts of face ",
+        "Skin of cheek ",
+        "Skin of chin ",
+        "Skin of face ",
+        "Skin of forehead ",
+        "Skin of jaw ",
+        "Skin of nose ",
+        "Skin of temple ",
+        "Ala nasi "
+    ],
+    "C44.4": [
+        "Skin of scalp and neck ",
+        "Skin of head, NOS ",
+        "Skin of neck ",
+        "Skin of scalp ",
+        "Scalp, NOS ",
+        "Skin of cervical region "
+    ],
+    "C44.5": [
+        "Skin of trunk ",
+        "Skin of abdomen ",
+        "Skin of abdominal wall ",
+        "Skin of anus ",
+        "Skin of axilla ",
+        "Skin of back ",
+        "Skin of breast ",
+        "Skin of buttock ",
+        "Skin of chest ",
+        "Skin of chest wall ",
+        "Skin of flank ",
+        "Skin of groin ",
+        "Skin of perineum ",
+        "Skin of thoracic wall ",
+        "Skin of thorax ",
+        "Skin of trunk ",
+        "Skin of umbilicus ",
+        "Skin of gluteal region ",
+        "Skin of infraclavicular region ",
+        "Skin of inguinal region ",
+        "Skin of sacrococcygeal region ",
+        "Skin of scapular region ",
+        "Perianal skin ",
+        "Umbilicus, NOS "
+    ],
+    "C44.6": [
+        "Skin of upper limb and shoulder ",
+        "Skin of antecubital space ",
+        "Skin of arm ",
+        "Skin of elbow ",
+        "Skin of finger ",
+        "Skin of forearm",
+        "Skin of hand ",
+        "Skin of palm ",
+        "Skin of shoulder ",
+        "Skin of thumb ",
+        "Skin of upper limb ",
+        "Skin of wrist ",
+        "Finger nail ",
+        "Palmar skin"
+    ],
+    "C44.7": [
+        "Skin of lower limb and hip ",
+        "Skin of ankle ",
+        "Skin of calf ",
+        "Skin of foot ",
+        "Skin of heel ",
+        "Skin of hip ",
+        "Skin of knee ",
+        "Skin of leg ",
+        "Skin of lower limb ",
+        "Skin of popliteal space ",
+        "Skin of thigh ",
+        "Skin of toe ",
+        "Plantar skin ",
+        "Sole of foot ",
+        "Toe nail "
+    ],
+    "C44.8": [
+        "Overlapping lesion of skin "
+    ],
+    "C44.9": [
+        "Skin, NOS"
+    ],
+    "C47.0": [
+        "Peripheral nerves and autonomic nervous system of head, face, and neck ",
+        "Peripheral nerves and autonomic nervous system of cheek ",
+        "Peripheral nerves and autonomic nervous system of chin ",
+        "Peripheral nerves and autonomic nervous system of face ",
+        "Peripheral nerves and autonomic nervous system of forehead ",
+        "Peripheral nerves and autonomic nervous system of head ",
+        "Peripheral nerves and autonomic nervous system of neck ",
+        "Peripheral nerves and autonomic nervous system of scalp ",
+        "Peripheral nerves and autonomic nervous system of temple ",
+        "Peripheral nerves and autonomic nervous system of cervical region ",
+        "Peripheral nerves and autonomic nervous system of pterygoid fossa ",
+        "Peripheral nerves and autonomic nervous system of supraclavicular region "
+    ],
+    "C47.1": [
+        "Peripheral nerves and autonomic nervous system of upper limb and shoulder ",
+        "Peripheral nerves and autonomic nervous system of antecubital space ",
+        "Peripheral nerves and autonomic nervous system of arm ",
+        "Peripheral nerves and autonomic nervous system of elbow ",
+        "Peripheral nerves and autonomic nervous system of finger ",
+        "Peripheral nerves and autonomic nervous system of forearm ",
+        "Peripheral nerves and autonomic nervous system of hand ",
+        "Peripheral nerves and autonomic nervous system of shoulder ",
+        "Peripheral nerves and autonomic nervous system of thumb ",
+        "Peripheral nerves and autonomic nervous system of wrist ",
+        "Brachial nerve ",
+        "Brachial plexus ",
+        "Median nerve ",
+        "Radial nerve ",
+        "Ulnar nerve "
+    ],
+    "C47.2": [
+        "Peripheral nerves and autonomic nervous system of lower limb and hip ",
+        "Peripheral nerves and autonomic nervous system of ankle ",
+        "Peripheral nerves and autonomic nervous system of calf ",
+        "Peripheral nerves and autonomic nervous system of foot ",
+        "Peripheral nerves and autonomic nervous system of heel ",
+        "Peripheral nerves and autonomic nervous system of hip ",
+        "Peripheral nerves and autonomic nervous system of knee ",
+        "Peripheral nerves and autonomic nervous system of leg ",
+        "Peripheral nerves and autonomic nervous system of popliteal space ",
+        "Peripheral nerves and autonomic nervous system of thigh ",
+        "Peripheral nerves and autonomic nervous system of toe ",
+        "Femoral nerve ",
+        "Obturator nerve ",
+        "Sciatic nerve "
+    ],
+    "C47.3": [
+        "Peripheral nerves and autonomic nervous system of thorax ",
+        "Peripheral nerves and autonomic nervous system of axilla ",
+        "Peripheral nerves and autonomic nervous system of chest ",
+        "Peripheral nerves and autonomic nervous system of chest wall ",
+        "Peripheral nerves and autonomic nervous system of thoracic wall ",
+        "Peripheral nerves and autonomic nervous system of infraclavicular region ",
+        "Peripheral nerves and autonomic nervous system of scapular region ",
+        "Intercostal nerve "
+    ],
+    "C47.4": [
+        "Peripheral nerves and autonomic nervous system of abdomen ",
+        "Peripheral nerves and autonomic nervous system of abdominal wall ",
+        "Peripheral nerves and autonomic nervous system of umbilicus "
+    ],
+    "C47.5": [
+        "Peripheral nerves and autonomic nervous system of pelvis ",
+        "Peripheral nerves and autonomic nervous system of buttock ",
+        "Peripheral nerves and autonomic nervous system of groin ",
+        "Peripheral nerves and autonomic nervous system of perineum ",
+        "Peripheral nerves and autonomic nervous system of gluteal region ",
+        "Peripheral nerves and autonomic nervous system of inguinal region ",
+        "Peripheral nerves and autonomic nervous system of sacrococcygeal region ",
+        "Lumbosacral plexus ",
+        "Sacral nerve ",
+        "Sacral plexus "
+    ],
+    "C47.6": [
+        "Peripheral nerves and autonomic nervous system of trunk, NOS ",
+        "Peripheral nerves and autonomic nervous system of back ",
+        "Peripheral nerves and autonomic nervous system of flank",
+        "Peripheral nerves and autonomic nervous system of trunk ",
+        "Lumbar nerve "
+    ],
+    "C47.8": [
+        "Overlapping lesion of peripheral nerves and autonomic nervous system"
+    ],
+    "C47.9": [
+        "Autonomic nervous system, NOS ",
+        "Ganglia, NOS ",
+        "Nerve, NOS ",
+        "Parasympathetic nervous system, NOS ",
+        "Peripheral nerve, NOS ",
+        "Spinal nerve, NOS ",
+        "Sympathetic nervous system, NOS "
+    ],
+    "C48.0": [
+        "Retroperitoneum ",
+        "Periadrenal tissue ",
+        "Perinephric tissue ",
+        "Peripancreatic tissue ",
+        "Perirenal tissue",
+        "Retrocecal tissue ",
+        "Retroperitoneal tissue "
+    ],
+    "C48.1": [
+        "Specified parts of peritoneum ",
+        "Mesentery ",
+        "Mesoappendix ",
+        "Mesocolon ",
+        "Omentum ",
+        "Pelvic peritoneum ",
+        "Rectouterine pouch "
+    ],
+    "C48.2": [
+        "Peritoneum, NOS ",
+        "Peritoneal cavity "
+    ],
+    "C48.8": [
+        "Overlapping lesion of retroperitoneum and peritoneum"
+    ],
+    "C49.0": [
+        "Connective, subcutaneous and other soft tissues of head, face, and neck"
+    ],
+    "C49.1": [
+        "Connective, subcutaneous and other soft tissues of upper limb and shoulder "
+    ],
+    "C49.2": [
+        "Connective, subcutaneous and other soft tissues of lower limb and hip "
+    ],
+    "C49.3": [
+        "Connective, subcutaneous and other soft tissues of thorax"
+    ],
+    "C49.4": [
+        "Connective, subcutaneous and other soft tissues of abdomen"
+    ],
+    "C49.5": [
+        "Connective, subcutaneous and other soft tissues of pelvis "
+    ],
+    "C49.6": [
+        "Connective, subcutaneous and other soft tissues of trunk, NOS "
+    ],
+    "C49.8": [
+        "Overlapping lesion of connective, subcutaneous and other soft tissues "
+    ],
+    "C49.9": [
+        "Connective, subcutaneous and other soft tissues, NOS ",
+        "Adipose tissue, NOS ",
+        "Aponeurosis, NOS ",
+        "Artery, NOS ",
+        "Blood vessel, NOS ",
+        "Bursa, NOS "
+    ],
+    "C50.0": [
+        "Nipple Areola "
+    ],
+    "C50.1": [
+        "Central portion of breast "
+    ],
+    "C50.2": [
+        "Upper-inner quadrant of breast "
+    ],
+    "C50.3": [
+        "Lower-inner quadrant of breast "
+    ],
+    "C50.4": [
+        "Upper-outer quadrant of breast "
+    ],
+    "C50.5": [
+        "Lower-outer quadrant of breast "
+    ],
+    "C50.6": [
+        "Axillary tail of breast ",
+        "Tail of breast, NOS "
+    ],
+    "C50.8": [
+        "Overlapping lesion of breast",
+        "Inner breast ",
+        "Lower breast ",
+        "Midline of breast ",
+        "Outer breast",
+        "Upper breast "
+    ],
+    "C50.9": [
+        "Breast, NOS ",
+        "Mammary gland "
+    ],
+    "C51.0": [
+        "Labium majus ",
+        "Labia majora, NOS ",
+        "Bartholin gland ",
+        "Skin of labia majora "
+    ],
+    "C51.1": [
+        "Labium minus ",
+        "Labia minora "
+    ],
+    "C51.2": [
+        "Clitoris "
+    ],
+    "C51.8": [
+        "Overlapping lesion of vulva "
+    ],
+    "C51.9": [
+        "Vulva, NOS ",
+        "External female genitalia ",
+        "Fourchette Labia, NOS",
+        "Labium, NOS ",
+        "Mons pubis ",
+        "Mons veneris ",
+        "Pudendum ",
+        "Skin of vulva "
+    ],
+    "C52.9": [
+        "Vagina, NOS ",
+        "Vaginal vault ",
+        "Fomix of vagina ",
+        "Gartner duct ",
+        "Hymen "
+    ],
+    "C53.0": [
+        "Endocervix ",
+        "Internal OS "
+    ],
+    "C53.1": [
+        "Exocervix ",
+        "External OS "
+    ],
+    "C53.8": [
+        "Overlapping lesion of cervix uteri "
+    ],
+    "C53.9": [
+        "Cervix uteri "
+    ],
+    "C54.0": [
+        "Isthmus uteri ",
+        "Lower uterine segment "
+    ],
+    "C54.1": [
+        "Endometrium ",
+        "Endometrial gland ",
+        "Endometrial stroma "
+    ],
+    "C54.2": [
+        "Myometrium "
+    ],
+    "C54.3": [
+        "Fundus uteri "
+    ],
+    "C54.8": [
+        "Overlapping lesion of corpus uteri "
+    ],
+    "C54.9": [
+        "Corpus uteri ",
+        "Body of uterus "
+    ],
+    "C55.9": [
+        "Uterus, NOS ",
+        "Uterine, NOS "
+    ],
+    "C56.9": [
+        "Ovary "
+    ],
+    "C57.0": [
+        "Fallopian tube ",
+        "Uterine tube "
+    ],
+    "C57.1": [
+        "Broad ligament ",
+        "Mesovarium ",
+        "Parovarian region "
+    ],
+    "C57.2": [
+        "Round ligament "
+    ],
+    "C57.3": [
+        "Parametrium ",
+        "Uterine ligament ",
+        "Uterosacral ligament "
+    ],
+    "C57.4": [
+        "Uterine adnexa ",
+        "Adnexa, NOS "
+    ],
+    "C57.7": [
+        "Other specified parts of female genital organs ",
+        "Wolffian body ",
+        "Wolffian duct "
+    ],
+    "C57.8": [
+        "Overlapping lesion of female genital organs",
+        "Tubo-ovarian ",
+        "Utero-ovarian "
+    ],
+    "C57.9": [
+        "Female genital tract, NOS ",
+        "Female genital organs, NOS ",
+        "Female genitourinary tract, NOS ",
+        "Urethrovaginal septum ",
+        "Vesicocervical tissue ",
+        "Vesicovaginal septum "
+    ],
+    "C58.9": [
+        "Placenta ",
+        "Fetal membranes "
+    ],
+    "C60.0": [
+        "Prepuce ",
+        "Foreskin "
+    ],
+    "C60.1": [
+        "Glans penis "
+    ],
+    "C60.2": [
+        "Body of penis "
+    ],
+    "C60.8": [
+        "Overlapping lesion of penis "
+    ],
+    "C60.9": [
+        "Penis, NOS ",
+        "Skin of penis"
+    ],
+    "C61.9": [
+        "Prostate gland ",
+        "Prostate, NOS "
+    ],
+    "C62.0": [
+        "Undescended testis",
+        "Retained testis",
+        "Ectopic testis"
+    ],
+    "C62.1": [
+        "Descended testis ",
+        "Scrotal testis"
+    ],
+    "C62.9": [
+        "Testis, NOS ",
+        "Testicle, NOS "
+    ],
+    "C63.0": [
+        "Epididymis "
+    ],
+    "C63.1": [
+        "Spermatic cord ",
+        "Vas deferens "
+    ],
+    "C63.2": [
+        "Scrotum, NOS",
+        "Skin of scrotum "
+    ],
+    "C63.7": [
+        "Other specified parts of male genital organs ",
+        "Seminal vesicle ",
+        "Tunica vaginalis"
+    ],
+    "C63.8": [
+        "Overlapping lesion of male genital organs"
+    ],
+    "C63.9": [
+        "Male genital organs, NOS ",
+        "Male genital tract, NOS ",
+        "Male genitourinary tract, NOS "
+    ],
+    "C64.9": [
+        "Kidney, NOS ",
+        "Renal, NOS ",
+        "Kidney parenchyma "
+    ],
+    "C65.9": [
+        "Renal pelvis ",
+        "Pelvis of kidney ",
+        "Renal calyces ",
+        "Renal calyx ",
+        "Pelviureteric junction  "
+    ],
+    "C66.9": [
+        "Ureter "
+    ],
+    "C67.0": [
+        "Trigone of bladder "
+    ],
+    "C67.1": [
+        "Dome of bladder "
+    ],
+    "C67.2": [
+        "Lateral wall of bladder "
+    ],
+    "C67.3": [
+        "Anterior wall of bladder "
+    ],
+    "C67.4": [
+        "Posterior wall of bladder "
+    ],
+    "C67.5": [
+        "Bladder neck ",
+        "Internal urethral orifice "
+    ],
+    "C67.6": [
+        "Ureteric orifice "
+    ],
+    "C67.7": [
+        "Urachus "
+    ],
+    "C67.8": [
+        "Overlapping lesion of bladder "
+    ],
+    "C67.9": [
+        "Bladder, NOS ",
+        "Bladder wall, NOS ",
+        "Urinary bladder, NOS"
+    ],
+    "C68.0": [
+        "Urethra "
+    ],
+    "C68.1": [
+        "Paraurethral gland "
+    ],
+    "C68.8": [
+        "Overlapping lesion of urinary organs "
+    ],
+    "C68.9": [
+        "Urinary system, NOS "
+    ],
+    "C69.0": [
+        "Conjunctiva "
+    ],
+    "C69.1": [
+        "Cornea, NOS ",
+        "Limbus of cornea "
+    ],
+    "C69.2": [
+        "Retina "
+    ],
+    "C69.3": [
+        "Choroid "
+    ],
+    "C69.4": [
+        "Ciliary body "
+    ],
+    "C69.5": [
+        "Lacrimal gland ",
+        "Lacrimal duct, NOS ",
+        "Nasal lacrimal duct ",
+        "Nasolacrimal duct ",
+        "Lacrimal sac "
+    ],
+    "C69.6": [
+        "Orbit, NOS ",
+        "Autonomic nervous system of orbit "
+    ],
+    "C69.8": [
+        "Overlapping lesion of eye and adnexa "
+    ],
+    "C69.9": [
+        "Eye, NOS"
+    ],
+    "C70.0": [
+        "Cerebral meninges "
+    ],
+    "C70.1": [
+        "Spinal meninges ",
+        "Spinal arachnoid ",
+        "Spinal dura mater ",
+        "Spinal pia mater "
+    ],
+    "C70.9": [
+        "Meninges, NOS ",
+        "Arachnoid, NOS ",
+        "Dura, NOS ",
+        "Dura mater, NOS ",
+        "Pia mater, NOS "
+    ],
+    "C71.0": [
+        "Cerebrum ",
+        "Basal ganglia "
+    ],
+    "C71.1": [
+        "Frontal lobe ",
+        "Frontal pole "
+    ],
+    "C71.2": [
+        "Temporal lobe ",
+        "Hippocampus Uncus "
+    ],
+    "C71.3": [
+        "Parietal lobe"
+    ],
+    "C71.4": [
+        "Occipital lobe ",
+        "Occipital pole"
+    ],
+    "C71.5": [
+        "Ventricle, NOS "
+    ],
+    "C71.6": [
+        "Cerebellum, NOS "
+    ],
+    "C71.7": [
+        "Brain stem"
+    ],
+    "C71.8": [
+        "Overlapping lesion of brain "
+    ],
+    "C71.9": [
+        "Brain, NOS ",
+        "Intracranial site "
+    ],
+    "C72.0": [
+        "Spinal cord "
+    ],
+    "C72.1": [
+        "Cauda equina "
+    ],
+    "C72.2": [
+        "Olfactory nerve "
+    ],
+    "C72.3": [
+        "Optic nerve ",
+        "Optic chiasm ",
+        "Optic tract"
+    ],
+    "C72.4": [
+        "Acoustic nerve "
+    ],
+    "C72.5": [
+        "Cranial nerve, NOS ",
+        "Abducens nerve ",
+        "Accessory nerve, NOS ",
+        "Spinal accessory nerve ",
+        "Facial nerve ",
+        "Glossopharyngeal nerve ",
+        "Hypoglossal nerve ",
+        "Oculomotor nerve ",
+        "Trigeminal nerve ",
+        "Trochlear nerve ",
+        "Vagus nerve "
+    ],
+    "C72.8": [
+        "Overlapping lesion of brain and central nervous system"
+    ],
+    "C72.9": [
+        "Nervous system, NOS "
+    ],
+    "C73.9": [
+        "Thyroid gland ",
+        "Thyroid, NOS ",
+        "Thyroglossal duct "
+    ],
+    "C74.0": [
+        "Cortex of adrenal gland "
+    ],
+    "C74.1": [
+        "Medulla of adrenal gland "
+    ],
+    "C74.9": [
+        "Adrenal gland, NOS ",
+        "Suprarenal gland ",
+        "Adrenal, NOS"
+    ],
+    "C75.0": [
+        "Parathyroid gland "
+    ],
+    "C75.1": [
+        "Pituitary gland ",
+        "Pituitary, NOS ",
+        "Hypophysis ",
+        "Rathke pouch ",
+        "Sella turcica ",
+        "Pituitary fossa "
+    ],
+    "C75.2": [
+        "Craniopharyngeal duct "
+    ],
+    "C75.3": [
+        "Pineal gland "
+    ],
+    "C75.4": [
+        "Carotid body "
+    ],
+    "C75.5": [
+        "Aortic body and other paraganglia "
+    ],
+    "C75.8": [
+        "Overlapping lesion of endocrine glands and related structures ",
+        "Multiple endocrine glands ",
+        "Pluriglandular "
+    ],
+    "C75.9": [
+        "Endocrine gland, NOS "
+    ],
+    "C76.0": [
+        "Head, face or neck, NOS "
+    ],
+    "C76.1": [
+        "Thorax, NOS ",
+        "Axilla, NOS "
+    ],
+    "C76.2": [
+        "Abdomen, NOS ",
+        "Abdominal wall, NOS ",
+        "Intra-abdominal site, NOS "
+    ],
+    "C76.3": [
+        "Pelvis, NOS ",
+        "Buttock, NOS ",
+        "Groin, NOS ",
+        "Ischiorectal fossa ",
+        "Pelvic wall, NOS ",
+        "Perineum, NOS ",
+        "Rectovaginal septum ",
+        "Rectovesical septum ",
+        "Gluteal region, NOS ",
+        "Inguinal region, NOS ",
+        "Perirectal region, NOS ",
+        "Presacral region, NOS ",
+        "Sacrococcygeal region, NOS "
+    ],
+    "C76.4": [
+        "Upper limb, NOS ",
+        "Antecubital space, NOS ",
+        "Arm, NOS ",
+        "Elbow, NOS ",
+        "Finger, NOS ",
+        "Forearm, NOS ",
+        "Hand, NOS ",
+        "Shoulder, NOS "
+    ],
+    "C76.5": [
+        "Lower limb, NOS ",
+        "Ankle, NOS "
+    ],
+    "C76.7": [
+        "Other ill-defined sites ",
+        "Back, NOS ",
+        "Flank, NOS ",
+        "Trunk, NOS "
+    ],
+    "C76.8": [
+        "Overlapping lesion of ill-defined sites "
+    ],
+    "C77.0": [
+        "Lymph nodes of head, face and neck ",
+        "Auricular lymph node "
+    ],
+    "C77.1": [
+        "Intrathoracic lymph nodes ",
+        "Bronchial lymph node ",
+        "Bronchopulmonary lymph node ",
+        "Diaphragmatic lymph node ",
+        "Esophageal lymph node ",
+        "Hilar lymph node, NOS ",
+        "Innominate lymph node ",
+        "Intercostal lymph node ",
+        "Mediastinal lymph node",
+        "Parasternal lymph node ",
+        "Pulmonary hilar lymph node ",
+        "Pulmonary lymph node, NOS ",
+        "Thoracic lymph node",
+        "Tracheal lymph node ",
+        "Tracheobronchial lymph node "
+    ],
+    "C77.2": [
+        "Intra-abdominal lymph nodes ",
+        "Abdominal lymph node ",
+        "Aortic lymph node "
+    ],
+    "C77.3": [
+        "Lymph nodes of axilla or arm ",
+        "Axillary lymph node ",
+        "Brachial lymph node "
+    ],
+    "C77.4": [
+        "Lymph nodes of inguinal region or leg ",
+        "Femoral lymph node ",
+        "Inguinal lymph node ",
+        "Lymph node of Cloquet ",
+        "Lymph node of groin ",
+        "Lymph node of lower limb ",
+        "Lymph node of Rosenmuller ",
+        "Popliteal lymph node ",
+        "Subinguinal lymph node Tibial lymph node"
+    ],
+    "C77.5": [
+        "Pelvic lymph nodes ",
+        "Hypogastric lymph node ",
+        "Iliac lymph node ",
+        "Inferior epigastric lymph node ",
+        "Intrapelvic lymph node ",
+        "Obturator lymph node ",
+        "Paracervical lymph node ",
+        "Parametrial lymph node ",
+        "Presymphysial lymph node ",
+        "Sacral lymph node "
+    ],
+    "C77.8": [
+        "Lymph nodes of multiple regions "
+    ],
+    "C77.9": [
+        "Lymph node, NOS "
+    ],
+    "C80.9": [
+        "Unknown primary site"
+    ]
+}
